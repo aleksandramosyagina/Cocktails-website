@@ -23,5 +23,8 @@ You can also get a recipe of a random cocktail.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="25" src="https://user-images.githubusercontent.com/104452692/199507007-4358ad84-ffdf-4f30-9881-b44398f0c6db.png"></code>
 
+## Thanks to all Contributors
+[![Contributors](https://contrib.rocks/image?repo=tintinelle/Cocktails-website)](https://github.com/tintinelle/Cocktails-website/graphs/contributors)
+
 ## Result:
-https://tintinelle.github.io/Cocktails-website/
+https://aleksandramosyagina.github.io/Cocktails-website/
