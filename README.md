@@ -1,6 +1,6 @@
 # What is it?
 
-It is a website for searching cocktails.
+It is a website for searching cocktails recipes.
 
 ## What can it do?
 
